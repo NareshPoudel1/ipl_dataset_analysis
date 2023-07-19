@@ -10,3 +10,6 @@ were applied to extract meaningful insigh
 ts from the datasets. Additionally, data visualization 
 tools like matplotlib (bargraphs, histograms, and pie charts) and seaborn (heat maps) were 
 utilized to visually explore and present valuable information about the datasets.
+
+Also used numpy and seaborn for different analysis insights of the data set.
+
